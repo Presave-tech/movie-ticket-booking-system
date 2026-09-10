@@ -1,0 +1,23 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+build/
+bin/
+out/
+
+# System / OS files
+.DS_Store
+Thumbs.db
