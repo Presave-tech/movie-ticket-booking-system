@@ -485,3 +485,11 @@ Seats (e.g. A1,B2): Z99
 Error: Seat Z99 does not exist.
 Booking rejected. No seats were changed.
 ```
+
+---
+
+## 11. Author
+
+| Field | Details |
+| :--- | :--- |
+| **Author** | Amandeep Jarmal |

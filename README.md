@@ -134,7 +134,7 @@ Processing UPI payment of Rs. 400.00... Success!
 ========================================
  Booking ID:  BK-1001
  Status:      CONFIRMED
- Customer:    Hemant (9876543210)
+ Customer:    Amandeep(9876727348)
  Movie:       Inception (English, 148 min)
  Cinema:      PVR Cinemas | Screen 1
  Show Time:   10:00 AM
@@ -153,4 +153,4 @@ For the complete low-level design document including Noun-Verb analysis, Class R
 
 ## 👤 Author
 
-- **Hemant** (`hemuh877@gmail.com`)
+- **Amandeep** (`amandeepjarmal12@gmail.com`)
